@@ -1,0 +1,11 @@
+#pystachio_debug { width: auto; margin: 10px 0; padding: 10px; border: 1px solid #eee; font-family: "Lucida Sans Unicode", "Lucida Grande", "Helvetica", "Arial", sans-serif; font-size: 16px; }
+#pystachio_debug>p { font-size: 20px; margin: 4px 0 12px 0; }
+#pystachio_debug table.tokens { width: 100%; text-align: left; border: 1px solid #69c; border-top: none; margin: 0 20px 20px 0; }
+#pystachio_debug table.tokens:last-child { margin-bottom: 0; }
+#pystachio_debug table.tokens caption { text-align: left; font-size: 20px; background-color: #000; padding: 8px 12px; color: #fff; }
+#pystachio_debug table.tokens th { font-weight: normal; font-size: 18px; color: #039; padding: 10px; }
+#pystachio_debug table.tokens tbody { background: #e8edff;}
+#pystachio_debug table.tokens td { color: #669; border-top: 1px dashed #fff; padding: 6px 8px; }
+#pystachio_debug table.tokens tbody tr:hover td{ color:#339; background: #d0dafd; }
+#pystachio_debug table.tokens thead { }
+#pystachio_debug table.tokens tfoot { display: none; }
